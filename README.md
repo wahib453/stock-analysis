@@ -3,9 +3,9 @@
 ## Overview of Project
 
 ### Background.
-#Steve's parents wants to invest in a stock. They have chosen to invest in Daqo (ticker: DQ). But before investing they want to know how DQ's stocks performed #in 2018. They have asked their son, Steve for help. 
+Steve's parents wants to invest in a stock. They have chosen to invest in Daqo (ticker: DQ). But before investing they want to know how DQ's stocks performed in 2018. They have asked their son, Steve for help. 
 
-#Steve reached out for help with the analysis and soon discovered that DQ's stocks is not a good fit for his parents. So he decided to research on a broader #stocks in the market. 
+Steve reached out for help with the analysis and soon discovered that DQ's stocks is not a good fit for his parents. So he decided to research on a broader stocks in the market. 
 
 So assuming the vba code Steve used to run his analysis works works well for a dozen stocks. There is no guarantee it will work well for thousands of stocks. And if it does, it may take longer time to execute.
 
@@ -14,7 +14,7 @@ Rewrite the code Steve used for his stocks analysis to run faster, a process cal
 
 ##Results
 The tickerIndex is set equal to zero before looping over the rows
-![]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\1.PNG")
+![tickerIndex]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\1.PNG")
 
 
 Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices
