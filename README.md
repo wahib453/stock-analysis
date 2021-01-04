@@ -14,7 +14,7 @@ Rewrite the code Steve used for his stocks analysis to run faster, a process cal
 
 ## Results
 The tickerIndex is set equal to zero before looping over the rows
-![image1]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\1.PNG")
+![image1]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\1.PNG") - image
 
 
 Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices
