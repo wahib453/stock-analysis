@@ -13,9 +13,8 @@ So assuming the vba code Steve used to run his analysis works works well for a d
 Rewrite the code Steve used for his stocks analysis to run faster, a process called refactoring in coding process, and give a written report of the analysis made.
 
 ## Results
-The tickerIndex is set equal to zero before looping over the rows
-![image1]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\1.PNG") 
-![test1]("C:\Users\Sa2di\Desktop\stock-analysis\Resource2\1.PNG")
+The tickerIndex is set equal to zero before looping over the rows 
+![test1] ("C:\Users\Sa2di\Desktop\stock-analysis\Resource2\1.PNG")
 
 
 Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices
