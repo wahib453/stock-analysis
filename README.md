@@ -14,39 +14,39 @@ Rewrite the code Steve used for his stocks analysis to run faster, a process cal
 
 ## Results
 The tickerIndex is set equal to zero before looping over the rows 
-![test1](http://"C:\Users\Sa2di\Desktop\stock-analysis\Resource2\1.PNG")
+![1](https://user-images.githubusercontent.com/69058584/103587898-cc5eb680-4ead-11eb-9122-79bbb329875d.PNG)
 
 
 Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices
-![imaage2]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\2.PNG")  
+![2](https://user-images.githubusercontent.com/69058584/103588027-029c3600-4eae-11eb-88ca-fbd1d9f4a203.PNG) 
 
 The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays 
-![image3]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\3.PNG")
+![3](https://user-images.githubusercontent.com/69058584/103588070-1778c980-4eae-11eb-960d-3db9473f3ed1.PNG)
 
 The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and       tickerEndingPrices
-![image4]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\4.PNG")
+![4](https://user-images.githubusercontent.com/69058584/103588105-26f81280-4eae-11eb-9353-a621de7001af.PNG)
 
 
 
 Code for formatting the cells in the spreadsheet is working
-![image5]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\5.PNG")
+![5](https://user-images.githubusercontent.com/69058584/103588108-2790a900-4eae-11eb-94e0-4e0eb8b66980.PNG)
 
 
 There are comments to explain the purpose of the code 
-![image6]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\6.PNG")
+![6](https://user-images.githubusercontent.com/69058584/103588111-2790a900-4eae-11eb-9452-5401a66a1896.PNG)
 
 
 
 The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module 
-![image7]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\7.PNG")
-![image8]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\8.PNG")
+![7](https://user-images.githubusercontent.com/69058584/103588114-28293f80-4eae-11eb-87c5-b4718e1dfd05.PNG)
+![8](https://user-images.githubusercontent.com/69058584/103588115-28293f80-4eae-11eb-82cb-59be06569ff3.PNG)
 
 
 
 
 The pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png 
-![vba_challenge_2017]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\VBA_Challenge_2017.PNG")
-![vba_challenge_2018]("C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\VBA_Challenge_2018.PNG")
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/69058584/103588119-28c1d600-4eae-11eb-8ee6-ac95634b6d62.PNG)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/69058584/103588121-28c1d600-4eae-11eb-9cc7-3fb2d5eff2f7.PNG)
 
 
 
